@@ -7,7 +7,7 @@
 parse_dir () {
 	initial_path=$1
 	from=$2
- 	$fromPandoc = $3
+ 	fromPandoc=$3
 	toPandoc=$4
 	delete=$5
 
