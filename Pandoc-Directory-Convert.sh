@@ -1,10 +1,3 @@
-# use from cmd:
-# $ sh Recursive_directory_pandoc_convert.sh directory from to (optional: delete)
-# example use from cmd:
-# $ sh Recursive_directory_pandoc_convert.sh ./Test docx markdown true (optional: delete)
-# or
-# $ sh Recursive_directory_pandoc_convert.sh "C:\Users\user\Downloads\Test" docx markdown (optional: delete)
-
 # args:
 # initial_path - directory to be converted
 # from - extension of files that you want to convert from DOESN'T WORK WITH PANDOC EXTENSIONS
