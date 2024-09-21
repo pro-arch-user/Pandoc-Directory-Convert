@@ -6,13 +6,13 @@
 2) Download and run "Pandoc-Directory-Convert.sh"
 
 # Usage
-`$ sh Recursive_directory_pandoc_convert.sh directory from to`
+`$ sh Pandoc-Directory-Convert.sh directory from to`
 
-`$ sh Recursive_directory_pandoc_convert.sh directory from to delete`
+`$ sh Pandoc-Directory-Convert.sh directory from to delete`
 ### Example usage:
-`$ sh Recursive_directory_pandoc_convert.sh test docx markdown true delete`
+`$ sh Pandoc-Directory-Convert.sh test docx markdown true delete`
 
-`$ sh Recursive_directory_pandoc_convert.sh "C:\Users\user\Downloads\Test" docx markdown`
+`$ sh Pandoc-Directory-Convert.sh "C:\Users\user\Downloads\Test" docx markdown`
 
 ### Required script parameters:
 1) initial_path - directory to be converted
